@@ -10,3 +10,6 @@ To push your content back to the repository:
 "git add [file or directory name];
 git commit -m "Include a comment here" [file or directory name];
 git push origin master"
+
+
+GitHub Intro: http://swcarpentry.github.io/git-novice/04-changes/index.html
